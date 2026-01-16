@@ -1,0 +1,4 @@
+- So currently LLM depends on the prompts to generate the sql (i included example sql templates in the prompts) 
+- Because without the proper promps, llm will hallucinate and generate weird sql queries that arent correct
+- Currenly the bot isnt learning, so it stays with the same knowledge
+- In the future progress, we can maybe fine tuning the data, add rag as well
