@@ -18,10 +18,6 @@ A natural language to SQL chatbot application built with Streamlit, LangChain, a
 -  **Query History**: Tracks all your queries and results
 -  **SQL Security**: Validates queries to prevent dangerous operations
 
-## Screenshots
-
-*Add screenshots here if you have them*
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -43,8 +39,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/niainsyrh/chatbot-text-to-sql.git
-   cd chatbot-text-to-sql
+   git clone https://github.com/niainsyrh/Chatbot-text-to-SQL.git
+   cd Chatbot-text-to-SQL
    ```
 
 2. **Navigate to the project directory**:
